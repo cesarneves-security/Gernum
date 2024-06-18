@@ -19,7 +19,7 @@ git clone https://github.com/cesarneves-security/Gernum.git
 ```
 2. Navegue até o diretório do projeto:
 ```bash
-cd Gorch
+cd Gernum
 ```
 3. Instalação da ferramenta:
 ```bash
